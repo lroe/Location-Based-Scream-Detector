@@ -17,7 +17,7 @@ Flask: Web framework for creating the map-based user interface.
 JavaScript (Leaflet.js): For displaying geotagged scream events on an interactive map.
 
 
-#HOW TO USE
+# HOW TO USE
 *create folder templates and copy 3.jpg and index.html there
 1) python app.py -->click on the url to open the website
 2) python client.py
