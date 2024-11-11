@@ -1,4 +1,4 @@
-# Location-Based-Scream-Detector
+# Location-Based-Scream-Detector (Miniproject - Semester 6)
 A real-time scream detection system using TCP multi-client server communication, SVM for audio classification, and geolocation mapping to visualize detected screams.
 
 The server processes the audio using a Support Vector Machine (SVM) algorithm to detect screams. When a scream is detected, the system logs the location of the event on a map, providing a visual representation of recent scream occurrences along with their geotagged locations.
