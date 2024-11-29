@@ -13,7 +13,7 @@ Real-time audio processing: Microphones capture and transmit audio to the server
 Scream detection using SVM: The server uses a Support Vector Machine (SVM) algorithm to classify audio data and identify scream-like sounds.
 
 Location-based mapping: Each detected scream is linked to a specific location and displayed on a map.
-(X,Y) coordinates of the sensors are given as input and whenever that sensor detects a scream, it will be alerted on the map.
+(X,Y) coordinates of the sensors are given as input in the client.py(inside the code) and whenever that sensor detects a scream, it will be alerted on the map.
 
 Web-based visualization: A user-friendly web interface shows recent scream events with their geotagged locations on an interactive map.
 Technologies Used:
@@ -24,6 +24,7 @@ TCP/IP: Multi-client server communication for concurrent audio data processing.
 Support Vector Machine (SVM): For classifying audio signals and detecting screams.
 
 Flask: Web framework for creating the map-based user interface.
+
 
 
 # Screenshots
