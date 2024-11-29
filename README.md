@@ -25,7 +25,6 @@ Support Vector Machine (SVM): For classifying audio signals and detecting scream
 
 Flask: Web framework for creating the map-based user interface.
 
-JavaScript (Leaflet.js): For displaying geotagged scream events on an interactive map.
 
 # Screenshots
 <img src="https://github.com/lroe/Location-Based-Scream-Detector/blob/main/Screenshot%20from%202024-07-07%2014-56-39.png">
