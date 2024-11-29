@@ -28,9 +28,9 @@ Flask: Web framework for creating the map-based user interface.
 
 
 # Screenshots
-<img src="https://github.com/lroe/Location-Based-Scream-Detector/blob/main/Screenshot%20from%202024-07-07%2014-56-39.png">
+<img src="https://github.com/lroe/Location-Based-Scream-Detector/blob/main/s1.png">
 
-<img src="https://github.com/lroe/Location-Based-Scream-Detector/blob/main/Screenshot%20from%202024-07-07%2014-56-40.png">
+<img src="https://github.com/lroe/Location-Based-Scream-Detector/blob/main/s2.png">
 (a red light showing recently scream detected area)
 
 # HOW TO USE
