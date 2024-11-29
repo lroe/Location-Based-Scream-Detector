@@ -33,6 +33,10 @@ Flask: Web framework for creating the map-based user interface.
 <img src="https://github.com/lroe/Location-Based-Scream-Detector/blob/main/s2.png">
 (a red light showing recently scream detected area)
 
+<img src="https://github.com/lroe/Location-Based-Scream-Detector/blob/main/cli_server.png">
+(on the left: client.py, capturing audio every 10s and sending to server.
+on the right: server running, which recives audio clips from every client and executes the ml model on it to detect screams)
+
 # HOW TO USE
 *create folder templates and copy 3.jpg and index.html there
 1) python app.py -->click on the url to open the website
